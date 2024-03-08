@@ -1,0 +1,24 @@
+
+.container {
+  display: flex;
+}
+.btn {
+  border: 1px solid #c0c4cc;
+  padding: 10px;
+  margin: 50px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.active {
+  background-color: #87CEFF; /* 选中的颜色 */
+}
+.date {
+  color: #606266;
+  font-size: 16px;
+  font-weight: bold;
+}
+.status {
+  color: #909399;
+  font-size: 12px;
+}
+

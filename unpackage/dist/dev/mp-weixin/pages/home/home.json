@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uv-avatar": "/uni_modules/uv-avatar/components/uv-avatar/uv-avatar",
+    "uv-button": "/uni_modules/uv-button/components/uv-button/uv-button",
+    "uv-popup": "/uni_modules/uv-popup/components/uv-popup/uv-popup",
+    "uv-image": "/uni_modules/uv-image/components/uv-image/uv-image",
+    "uv-text": "/uni_modules/uv-text/components/uv-text/uv-text"
+  }
+}

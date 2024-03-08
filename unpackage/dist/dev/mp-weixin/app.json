@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/home/home",
+    "pages/record/record",
+    "pages/preservation/preservation",
+    "pages/settings/settings"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "汉江师范学院图书馆预约",
+    "navigationBarBackgroundColor": "#5f8bd2"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "cornflowerblue",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/home1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/preservation/preservation",
+        "iconPath": "static/seat.png",
+        "selectedIconPath": "static/seat_selected.png",
+        "text": "预约"
+      },
+      {
+        "pagePath": "pages/record/record",
+        "iconPath": "static/record.png",
+        "selectedIconPath": "static/pencil_selected.png",
+        "text": "记录"
+      },
+      {
+        "pagePath": "pages/settings/settings",
+        "iconPath": "static/settings.png",
+        "selectedIconPath": "static/setting_selected.png",
+        "text": "设置"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "uv-toast": "/uni_modules/uv-toast/components/uv-toast/uv-toast"
+  }
+}

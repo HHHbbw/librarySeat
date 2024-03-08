@@ -1,0 +1,54 @@
+
+.record_v.data-v-3b6eb0a6 {
+	  display: flex;
+	  flex-direction: column;
+	  align-items: center;
+	  justify-content: center;
+	  width: 100%; /* 调整为需要的宽度，例如100% */
+}
+.container.data-v-3b6eb0a6 {
+	  width: 90%; /* 调整为需要的宽度，例如90% */
+	  display: flex;
+	  flex-direction: column;
+	  align-items: center;
+	  justify-content: center;
+	  padding: 15px;
+	  background-color:#87CEFA;
+	  border-radius: 10px;
+	  overflow: hidden;
+	  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+	  margin: 10px;
+}
+.full-width.data-v-3b6eb0a6 {
+	  flex: none; /* This button will not grow */
+	  width: 100%; /* Full width button */
+}
+.text-container.data-v-3b6eb0a6 {
+	  width: 90%; /* Set the width to match the container */
+	  margin-top: 10px; /* Adjust spacing as needed */
+	  text-align: center; /* Center the text horizontally */
+	  margin: 0 auto; /* 上下边距为0，左右自动 */
+	  width: 90%; /* 已经设置 */
+}
+.button-group.data-v-3b6eb0a6 {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  margin-bottom: 10px;
+}
+.button.data-v-3b6eb0a6 {
+  background-color: #F0FFFF;
+  color: darkgray;
+  border: none;
+  border-radius: 5px;
+  padding: 2px 3px;
+  margin: 0 5px;
+  flex: 1; /* Buttons take up equal space */
+}
+.active.data-v-3b6eb0a6 {
+  color: red; /* 点击后的文本颜色 */
+}
+
+
+
+

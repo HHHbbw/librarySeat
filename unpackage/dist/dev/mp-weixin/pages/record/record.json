@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "记录",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uv-text": "/uni_modules/uv-text/components/uv-text/uv-text"
+  }
+}
